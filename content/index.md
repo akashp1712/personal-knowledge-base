@@ -29,7 +29,7 @@ Organized for quick reference and continuous learning.
   color: neutral
   icon: simple-icons-github
   size: xl
-  to: https://github.com/akashp1712/knowledge
+  to: https://github.com/akashp1712/personal-knowledge-base
   variant: outline
   ---
   View on GitHub
@@ -67,11 +67,11 @@ What's Inside
 
   :::u-page-feature
   ---
-  icon: i-simple-icons-robotframework
+  icon: i-lucide-users
   to: /agents
   ---
   #title
-  AI Agents
+  Agents
 
   #description
   Understanding different types of AI agents and their implementations.

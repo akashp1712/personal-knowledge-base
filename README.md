@@ -15,10 +15,13 @@ npm run dev
 ## Structure
 
 ```
-content/              # Markdown content
-├── index.md         # Homepage
-├── 1.getting-started/  # Getting started section
-└── 2.essentials/    # Essentials section
+content/                        # Markdown content
+├── index.md                   # Homepage
+├── 1.openssl/                 # OpenSSL command reference
+├── 2.voice-ai/               # Voice AI development
+├── 3.agents/                 # AI Agents documentation
+├── 4.context-engineering/    # Context engineering guides
+└── 999.syntax-reference/     # Markdown syntax reference
 ```
 
 ## Build
